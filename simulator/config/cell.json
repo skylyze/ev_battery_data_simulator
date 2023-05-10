@@ -1,0 +1,28 @@
+{
+"cell" : {
+    "cycle" : 0,
+    "soc" : 1.0,
+    "quick_charge_time" : 7200,
+    "charging_time" : 14400,
+    "current" : 1.7,
+    "charge_quick_current" : 3.4,
+    "discharge_current_max" : 6.5,
+    "volt" : 3.65,
+    "volt_min" : 2.5,
+    "volt_max" : 4.2,
+    "cap_max" : 3.35,
+    "cap_max_0" : 3.35,
+    "cap" : 3.25,
+    "temp" : 25,
+    "temp_max" : 40.0,
+    "temp_min" : -20.0,
+    "internal_resistance" : 0.13,
+    "weight" : 0.0475,
+    "discharge_volt_slope_lin" : 1.0,
+    "discharge_volt_slope_nonlin" : 0.8,
+    "cycle_pre" : -1,
+    "mode" : "discharge",
+    "temp_efficiency_factor" : 0.9,
+    "temp_capacity" : 830
+    }
+}
